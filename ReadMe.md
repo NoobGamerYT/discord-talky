@@ -7,7 +7,7 @@ Go to [Repl.it](https://replit.com/~)
 
 Click new repl on top right side of the page.
 
-[1]((https://media.discordapp.net/attachments/911569288417136702/986895897893941299/1.png?width=827&height=573)
+[Picture 1](https://media.discordapp.net/attachments/911569288417136702/986895897893941299/1.png?width=827&height=573)
 
 Click Import from Github.
 
@@ -15,7 +15,7 @@ Paste this : https://github.com/NoobGamerYT/discord-talky.git
 
 You should get this:
 
-[2](https://media.discordapp.net/attachments/911569288417136702/986895709137678336/Screenshot_2022-06-16_122102.png?width=836&height=573)
+[Picture 2](https://media.discordapp.net/attachments/911569288417136702/986895709137678336/Screenshot_2022-06-16_122102.png?width=836&height=573)
 
 Click Import from github.
 
